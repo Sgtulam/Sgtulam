@@ -10,6 +10,4 @@
 <br />
 <br />
 
-I'm a graduate student at NWMSU in Applied Computer Science. I finds passion in teaching and has taught hundreds of folks online and in person. I had worked as a software engineer in acceture for an US based Company. 
-
-
+I'm a graduate student at NWMSU in Applied Computer Science. I finds passion in teaching and has taught hundreds of folks online and in person. I had worked as a Pega System Architect/System Analyst in Accenture for Express-Scripts which was aquired by CIGNA
